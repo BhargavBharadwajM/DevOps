@@ -1,0 +1,21 @@
+2024-04-24 10:00:01 INFO  Starting application server
+2024-04-24 10:00:05 DEBUG Processing user login request for 'admin'
+2024-04-24 10:00:10 INFO  User 'admin' successfully logged in
+2024-04-24 10:00:15 WARNING Database connection pool is at low capacity
+2024-04-24 10:00:20 ERROR  Failed to process payment transaction (ID: 123)
+2024-04-24 10:00:25 INFO  New user registered: 'john.doe@example.com'
+2024-04-24 10:00:30 DEBUG  Caching frequently accessed data for faster retrieval
+2024-04-24 10:00:35 WARNING Application encountered a minor bug (details logged separately)
+2024-04-24 10:00:40 INFO  Processed 100 new orders in the last minute
+2024-04-24 10:00:45 NOTICE  System maintenance scheduled for tonight (2 AM)
+
+2024-04-24 10:01:00 ERROR  Disk space running low (90% full)
+2024-04-24 10:01:05 WARNING Memory usage exceeding recommended threshold (85%)
+2024-04-24 10:01:10 CRITICAL  Application unresponsive, restarting...
+2024-04-24 10:01:15 INFO  Application restarted successfully
+2024-04-24 10:01:20 DEBUG  Verifying system integrity after restart
+2024-04-24 10:01:25 INFO  System integrity check passed
+2024-04-24 10:01:30 NOTICE  Automatic software update available (version 2.1.2)
+2024-04-24 10:01:35 DEBUG  Sending notification to administrator about low disk space
+2024-04-24 10:01:40 INFO  Processed another 50 orders since restart
+2024-04-24 10:01:45 DEBUG  Closing database connections on program exit
